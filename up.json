@@ -1,15 +1,204 @@
 {
-  
-"version": 2, 
-"message": "အပ်ဒိတ် ဗာရှင်း (2)",
-"fileUrl": "https://raw.githubusercontent.com/chitsuma/ttzvpnpro2025/refs/heads/main/up.txt", 
-
-"RewardAmount": 1,
-
-"messageWarning":"What's new ?\n• Updated UI \n• Added Hotshare function \n• Fixed bug and more\n \nThanks for your understand❤️",
-"title":"Can't use continue current version, you need to upgrade V1.0.1 ",
-"link":"apk link web",
-"website":"apk link",
-"versionCode": 1
-  
+    "allowedTokens": [
+        {
+            "phone": "မိုးပပ",
+            "token_id": "4575b72c1c5d5e3b",
+            "date": "Unknown"
+        },
+        {
+            "phone": "ဦးဝနကြီး",
+            "token_id": "81db149b3096b0ac",
+            "date": "Unknown"
+        },
+        {
+            "phone": "ဆရာ",
+            "token_id": "c291a5d1a017b7f8",
+            "date": "Unknown"
+        },
+        {
+            "phone": "ဖြိုးမင်းအောင်",
+            "token_id": "84baa16a916dc34b",
+            "date": "Unknown"
+        },
+        {
+            "phone": "ညဏ်လင်းထွန်း",
+            "token_id": "b40492d94837e7b2",
+            "date": "Unknown"
+        },
+        {
+            "phone": "ထက်ကို 13.1.25",
+            "token_id": "a5c411bc824718f5",
+            "date": "Unknown"
+        },
+        {
+            "phone": "ညိုကြီး",
+            "token_id": "af9e8cfd16b5aff0",
+            "date": "Unknown"
+        },
+        {
+            "phone": "ကိုကြီးဇင်မင်းထိုက်",
+            "token_id": "2b9e862ec25b2219",
+            "date": "Unknown"
+        },
+        {
+            "phone": "သူထူးစံ",
+            "token_id": "8b61b621e3b8524b",
+            "date": "Unknown"
+        },
+        {
+            "phone": "မာဦး",
+            "token_id": "796a59a8ad463684",
+            "date": "Unknown"
+        },
+        {
+            "phone": "မဗေဒါ",
+            "token_id": "4fd757dd471a5c8f",
+            "date": "Unknown"
+        },
+        {
+            "phone": "ဝေယံ",
+            "token_id": "4c646313ea9d2c1a",
+            "date": "Unknown"
+        },
+        {
+            "phone": "သီ်ဂီစိုး",
+            "token_id": "c08663bae68248d8",
+            "date": "Unknown"
+        },
+        {
+            "phone": "မြတ်နိုး",
+            "token_id": "9fc74e2944674755",
+            "date": "Unknown"
+        },
+        {
+            "phone": "နှင်းမြတ်",
+            "token_id": "b85ddcb1bee32735",
+            "date": "Unknown"
+        },
+        {
+            "phone": "ဘဲဥ",
+            "token_id": "0f1dd70590b5c479",
+            "date": "Unknown"
+        },
+        {
+            "phone": "သန့်ဇင်ဦး",
+            "token_id": "c9627089b6c2703b",
+            "date": "Unknown"
+        },
+        {
+            "phone": "မိန်းမိန်မး",
+            "token_id": "b1468c487fd328ad",
+            "date": "Unknown"
+        },
+        {
+            "phone": "မီးရှည် uieojjdpkeopw",
+            "token_id": "82d10ee74bca6bc7",
+            "date": "Unknown"
+        },
+        {
+            "phone": "မငယ်",
+            "token_id": "10e7a258380976a4",
+            "date": "Unknown"
+        },
+        {
+            "phone": "မေမြတ်မိုး",
+            "token_id": "b0eaf63bcdb0cf35",
+            "date": "Unknown"
+        },
+        {
+            "phone": "ဝေယံကျော်",
+            "token_id": "ec60b20ac8512eed",
+            "date": "Unknown"
+        },
+        {
+            "phone": "ပပ",
+            "token_id": "69448b933eb56d9c",
+            "date": "2025-01-10"
+        },
+        {
+            "phone": "ေကာင်မလေး",
+            "token_id": "e2d6a646d503284c",
+            "date": "2025-01-10"
+        },
+        {
+            "phone": "ချိုမာဝင်း",
+            "token_id": "45616f0fe3208295",
+            "date": "2025-01-10"
+        },
+        {
+            "phone": "ksp",
+            "token_id": "8297040b73c236a0",
+            "date": "2025-05-10"
+        },
+        {
+            "phone": "နှင်းအိဖြူ",
+            "token_id": "35083fb989d6d804",
+            "date": "2025-01-10"
+        },
+        {
+            "phone": "အစမ်းလဒခ်ုဥ့ျှငဥာဥးါးစစသူဒညဘ်",
+            "token_id": "fd948047a2f20c3f",
+            "date": "2025-01-10"
+        },
+        {
+            "phone": "ဆရာ",
+            "token_id": "eeb9778bee53c0a2",
+            "date": "2025-01-10"
+        },
+        {
+            "phone": "အစမ်းဆရာ",
+            "token_id": "3fb86f9c7884aa5c",
+            "date": "2025-01-10"
+        },
+        {
+            "phone": "new",
+            "token_id": "f8010c6b85851b75",
+            "date": "2025-01-10"
+        },
+        {
+            "phone": "newapk",
+            "token_id": "c6ab184271219172",
+            "date": "2025-01-10"
+        },
+        {
+            "phone": "ဆရာယော်vpnစမ်းမယ်tokenမြန်မြန်ဝင်",
+            "token_id": "1cb7aaf170226062",
+            "date": "2025-01-10"
+        },
+        {
+            "phone": "ကေသွယ်အေးjikdhlojsjuehg",
+            "token_id": "a7d5f79c9cc5b3c2",
+            "date": "2025-01-10"
+        },
+        {
+            "phone": "သိမ့်သိမ့်အောင်(hofjlggoofhoifg)",
+            "token_id": "b549bea8cfcbdbf9",
+            "date": "2025-01-10"
+        },
+        {
+            "phone": "အောင်ပိုင်",
+            "token_id": "b70de9e365f15798",
+            "date": "2025-01-14"
+        },
+        {
+            "phone": "အမေသန်းလူသစ်(vkggjgjufjhfkff)",
+            "token_id": "4392caa3be58727f",
+            "date": "2025-01-117"
+        },
+        {
+            "phone": "nlt(hkljcjjdfffhjkkkkkllllkkkjsss)",
+            "token_id": "7edd273dcd052b1f",
+            "date": "2025-01-17"
+        },
+        {
+            "phone": "ညိုကြီး",
+            "token_id": "464c1054605ede34",
+            "date": "2025-01-10"
+        },
+        {
+            "phone": "မိန်းမိန်း",
+            "token_id": "7752838f983f83d6",
+            "date": "2025-12-24"
+        }
+    ]
 }
